@@ -1,4 +1,10 @@
-# n10nce browser extension
+<div align="center">
+    <img src="./public/icon/128.png" alt="Logo" />
+    <br />
+    <h1>A personal Chrome extension.</h1>   
+</div>
+
+![Screenshot of the new tab page](./public/banner.png)
 
 A personal Chrome extension. Currently overrides the **new tab** page to show
 the brand logo, centered, framed in the site's blueprint style — gutter grid,
